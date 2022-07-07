@@ -7,7 +7,7 @@
 가계부 관리를 프로젝트 주제로 설정하고 추가 기능으로 바자회 기부를 생각하게 되었다.
 먼저 account_book 데이터베이스를 테이블들을 생성하고 데이터베이스를 jsp파일과 연동시켰다.
 
-<img width="600" alt="데이터베이스 정의" src="https://user-images.githubusercontent.com/81062538/130538204-332be06a-f939-4a2b-885e-abf154ac2884.png">
+<img width="600" alt="데이터베이스 정의" src="https://user-images.githubusercontent.com/81062538/177781952-6f5d5475-5f18-4cc2-abdb-7c828711e206.png">
 
 1. JSP: 가계부 전체 메뉴 페이지 만들기
 첫페이지는 accountbook_user.jsp파일에서 코드를 작성하여 전체 메뉴가 나오도록 하였고 각각의 메뉴를 누르면 그 메뉴와 이어진 jsp로 새 창이 뜨면서 넘어가도록 하였다.
