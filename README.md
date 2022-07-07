@@ -44,6 +44,7 @@
 ## Cross Check 웹 DB 수정-->JAVA program에도 결과가 반영
 
 웹에서 새로운 회원으로 가입 
+
 <img width="600" alt="웹에서 새로운 회원으로 가입" src="https://user-images.githubusercontent.com/81062538/177781094-e4c4add9-f44c-4d59-b801-e04366002fed.png">
 
 
